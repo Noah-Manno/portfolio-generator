@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    background: url(./blue-data-technology-background-vector-with-binary-code_53876-110871.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255, .2) !important;
+}
+
+.nav-link,
+.navbar-brand {
+    color: white;
+}
+
+.card {
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(0, 0, 0, .4);
+    color: white;
+    height: 30vh;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
